@@ -1,0 +1,1311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"default",
+				"defaultPageConfig"
+			],
+			[
+				"def",
+				"defaultPageConfig"
+			],
+			[
+				"Pick",
+				"PickerConstructor"
+			],
+			[
+				"pick",
+				"pickadate"
+			],
+			[
+				"pic",
+				"pickadate"
+			],
+			[
+				"pickdate",
+				"pickadate"
+			],
+			[
+				"picka",
+				"pickadate-date"
+			],
+			[
+				"Nomin",
+				"NominationData"
+			],
+			[
+				"Nomination",
+				"NominationData	(list.js)"
+			],
+			[
+				"proces",
+				"processes	(list.js)"
+			],
+			[
+				"nomin",
+				"nominationData"
+			],
+			[
+				"das",
+				"dashboard.css"
+			],
+			[
+				"gul",
+				"gulp.cmd"
+			],
+			[
+				"nod",
+				"node_modules"
+			],
+			[
+				"He",
+				"Hendry"
+			],
+			[
+				"show",
+				"showTweets"
+			],
+			[
+				"wid",
+				"widget-shortcuts.js"
+			],
+			[
+				"wis",
+				"widget-results-graph"
+			],
+			[
+				"widg",
+				"widget2"
+			],
+			[
+				"he",
+				"helpers/"
+			],
+			[
+				"widget-",
+				"widget-latest-tweets.html"
+			],
+			[
+				"batch",
+				"batchInfo"
+			],
+			[
+				"task",
+				"taskQueue"
+			],
+			[
+				"line",
+				"lineChart"
+			],
+			[
+				"stack",
+				"stackedArea	(charting.js)"
+			],
+			[
+				"even",
+				"event-tests-custom-element.js"
+			],
+			[
+				"dash",
+				"dashboard-context.js"
+			],
+			[
+				"events-tests",
+				"event-tests-custom-element-with-service-binding.js"
+			],
+			[
+				"ev",
+				"event-tests-custom-element-with-service-binding.html"
+			],
+			[
+				"Eve",
+				"EventTestsService"
+			],
+			[
+				"eve",
+				"event-tests-service.js"
+			],
+			[
+				"chartOption",
+				"chartOptionsChanged"
+			],
+			[
+				"Event",
+				"EventsBase"
+			],
+			[
+				"c",
+				"converters/"
+			],
+			[
+				"compose",
+				"composeModel	(index.js)"
+			],
+			[
+				"at",
+				"activate"
+			],
+			[
+				"graph",
+				"graphSettings"
+			],
+			[
+				"gra",
+				"graphOptions"
+			],
+			[
+				"selec",
+				"selectionElection"
+			],
+			[
+				"Ev",
+				"eventData"
+			],
+			[
+				"char",
+				"chart.js"
+			],
+			[
+				"widget-sho",
+				"widget-shortcuts.js"
+			],
+			[
+				"widget-sh",
+				"widget-shortcuts.js"
+			],
+			[
+				"widget-voting",
+				"widget-voting-statistics.js"
+			],
+			[
+				"bind",
+				"bindingContext"
+			],
+			[
+				"bin",
+				"bindingContext"
+			],
+			[
+				"bat",
+				"batchInfo"
+			],
+			[
+				"san",
+				"sanitizeHtml"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"auths",
+				"authSession.js"
+			],
+			[
+				"auth",
+				"authSession.js"
+			],
+			[
+				"fet",
+				"fetchServices"
+			],
+			[
+				"ht",
+				"HttpClient"
+			],
+			[
+				"evet",
+				"EventAggregator"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"carousel",
+				"carousel-nav"
+			],
+			[
+				"carou",
+				"carouselCurrent"
+			],
+			[
+				"carouse",
+				"carouselItems"
+			],
+			[
+				"pad",
+				"padding"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 91.0,
+		"last_filter": "word",
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wotr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convrt",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gulp",
+				"Gulp: Run arbitrary task"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"iin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"browser",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"install a",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"list pac",
+				"Package Control: Install Package"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 578.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/github/bundling-with-jspm-and-aurelia"
+	],
+	"file_history":
+	[
+		"/C/github/bundling-with-jspm-and-aurelia/index-sfx.html",
+		"/C/github/bundling-with-jspm-and-aurelia/main.js",
+		"/C/github/bundling-with-jspm-and-aurelia/index.html",
+		"/C/github/bundling-with-jspm-and-aurelia/config.js",
+		"/C/github/bundling-with-jspm-and-aurelia/gulpfile.js",
+		"/C/github/bundling-with-jspm-and-aurelia/.gitignore",
+		"/C/github/bundling-with-jspm-and-aurelia/bundling-with-jspm-and-aurelia.sublime-project",
+		"/C/github/bundling-with-jspm-and-aurelia/app.html",
+		"/C/github/bundling-with-jspm-and-aurelia/app.js",
+		"/C/github/bundling-with-jspm-and-aurelia/build.js",
+		"/C/github/bundling-with-jspm-and-aurelia/jspm_packages/system.js",
+		"/C/github/blog/_data/tags.yml",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/dist/main.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/index.html",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/package.json",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/http-config.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/default-page-config.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/app-config.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/config.js",
+		"/C/temp/test election results.csv",
+		"/C/Users/Philip/Downloads/EntireReport_RANKING_OF_SNP_REGIONAL_LIST_CANDIDATES__p__LOTHIAN_REGION (3).csv",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/app.html",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/build/tasks/bundle.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/main.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/resources/clock-picker.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/app.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/nominations/details.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/resources/converters/date-format.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/dashboard/widget-latest-tweets.html",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/nominations/details.html",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/build/tasks/watch.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/build/tasks/serve.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/vendor/pickadate/pickadate.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/app.css",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/resources/clock-picker.css",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/vendor/pickadate/date-picker.css",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/resources/date-picker.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/resources/index.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/vendor/pickadate@1.0.0.js",
+		"/C/Users/Philip/Desktop/materialize.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/vendor/pickadate/pickadate-date.js",
+		"/C/Users/Philip/Downloads/EntireReport_RANKING_OF_SNP_REGIONAL_LIST_CANDIDATES__p__LOTHIAN_REGION (2).csv",
+		"/C/Users/Philip/Downloads/EntireReport_RANKING_OF_SNP_REGIONAL_LIST_CANDIDATES__p__LOTHIAN_REGION (1).csv",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/resources/date-picker.css",
+		"/C/Users/Philip/Downloads/EntireReport_RANKING_OF_SNP_REGIONAL_LIST_CANDIDATES__p__LOTHIAN_REGION.csv",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspmOverrides.cmd",
+		"/C/Users/Philip/Downloads/UVCBatch_FistBatch.csv",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspm_packages/npm/pickadate@3.5.6/lib/picker.date.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspm_packages/npm/pickadate@3.5.6.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspm_packages/npm/pickadate@3.5.6/package.json",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspm_packages/github/github/fetch@0.9.0.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspm_packages/npm/jquery@2.1.4.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/jspm_packages/npm/lodash@3.10.1.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/GUI/MiVoice.Atlas.AdminSite/spa/src/fetch-services.js",
+		"/C/github/aurelia-mivoice-experiment/src/events/details.html",
+		"/C/github/aurelia-mivoice-experiment/src/nominations/details.html",
+		"/C/github/aurelia-mivoice-experiment/src/fetch-services.js",
+		"/C/github/aurelia-mivoice-experiment/src/security/login.html",
+		"/C/github/aurelia-mivoice-experiment/src/nominations/list.html",
+		"/C/github/aurelia-mivoice-experiment/src/events/list.html",
+		"/C/github/aurelia-mivoice-experiment/src/router-config.js",
+		"/C/github/aurelia-mivoice-experiment/src/events/details.js",
+		"/C/github/aurelia-mivoice-experiment/src/nominations/details.js",
+		"/C/github/aurelia-mivoice-experiment/src/nominations/nominationData.js",
+		"/C/github/aurelia-mivoice-experiment/src/app.html",
+		"/C/github/aurelia-mivoice-experiment/src/resources/index.js",
+		"/C/github/aurelia-mivoice-experiment/src/resources/controls/control-datetime.js",
+		"/C/github/aurelia-mivoice-experiment/src/resources/controls/control-textbox.html",
+		"/C/github/aurelia-mivoice-experiment/src/resources/controls/control-textbox.js",
+		"/C/github/aurelia-mivoice-experiment/src/security/authService.js",
+		"/C/github/aurelia-mivoice-experiment/src/security/login.js",
+		"/C/AtlasLogs/smtp.txt",
+		"/C/github/aurelia-mivoice-experiment/src/app.css",
+		"/C/github/aurelia-mivoice-experiment/src/resources/dialogs.js",
+		"/C/github/aurelia-mivoice-experiment/src/resources/notifications.js",
+		"/C/github/aurelia-mivoice-experiment/src/footer.html",
+		"/C/github/aurelia-mivoice-experiment/src/security/authSession.js",
+		"/C/github/aurelia-mivoice-experiment/src/security/authConfig.js",
+		"/C/github/aurelia-mivoice-experiment/config.js",
+		"/C/github/aurelia-mivoice-experiment/package.json",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/npm/font-awesome@4.4.0.js",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/t4t5/sweetalert@1.1.0/dev/sweetalert.es6.js",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/t4t5/sweetalert@1.1.0/dist/sweetalert-dev.js",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/codeseven/toastr@2.1.2/toastr.js",
+		"/C/github/aurelia-mivoice-experiment/index.html",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/twbs/bootstrap@3.3.5.js",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/moment/moment@2.10.6.js",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/highslide-software/highcharts.com@4.1.8.js",
+		"/C/github/aurelia-mivoice-experiment/jspm_packages/github/codeseven/toastr@2.1.2.js",
+		"/C/github/aurelia-mivoice-experiment/src/resources/controls/chart.js",
+		"/C/github/aurelia-mivoice-experiment/src/resources/controls/chart.html",
+		"/C/github/aurelia-mivoice-experiment/src/experiments/charting.js",
+		"/C/github/aurelia-mivoice-experiment/src/events/list.js",
+		"/C/github/aurelia-mivoice-experiment/src/nominations/list.js",
+		"/C/github/aurelia-mivoice-experiment/src/events/eventData.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/Core/MiVoice.Atlas.Core.Model/MiVoice.Atlas.Core.Model.csproj",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/Core/MiVoice.Atlas.Core.Model/generatedSql/MiVoice.Atlas.Core.Model.sql",
+		"/C/github/aurelia-mivoice-experiment/src/app-config.js",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/Core/MiVoice.Atlas.Core.WSProxies/Service References/NominationProcessManagement/Reference.cs",
+		"/C/src/mi-voice mini/FeatureBranches/201510Nominations/Sources/Core/MiVoice.Atlas.Core.WSProxies/Service References/ServiceReference1/configuration.svcinfo",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/dashboard.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-results-graph.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-results-graph.js",
+		"/C/AtlasLogs/Error.Atlas.Admin.txt",
+		"/C/AtlasLogs/Error.Atlas.WebServices.txt",
+		"/C/github/aurelia-mivoice-experiment/src/main.js",
+		"/C/github/aurelia-mivoice-experiment/.editorconfig",
+		"/C/Users/Philip/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/github/aurelia-mivoice-experiment/build/tasks/bundle.js",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-voting-statistics.js",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/carousel.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget2.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-button.html",
+		"/C/github/aurelia-mivoice-experiment/src/experiments/charting.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/dashboard.js",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-latest-tweets.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-latest-tweets.js",
+		"/C/github/aurelia-mivoice-experiment/aurelia-mivoice-experiment.sublime-project",
+		"/C/github/aurelia-mivoice-experiment/src/single-page.js",
+		"/C/github/aurelia-mivoice-experiment/single-page.html",
+		"/C/github/aurelia-mivoice-experiment/dist/resources/controls/chart.html",
+		"/C/github/aurelia-mivoice-experiment/src/experiments/event-tests-custom-element.html",
+		"/C/github/aurelia-mivoice-experiment/dist/dashboard/widget2.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget2.js",
+		"/C/github/aurelia-mivoice-experiment/dist/dashboard/widget.html",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget.js",
+		"/C/github/aurelia-mivoice-experiment/src/dashboard/widget-voting-statistics.html"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"",
+			"-dist/,-jspm_packages/,-node_modules/,src/",
+			"src/",
+			"-dist/,-jspm_packages/,-node_modules/,/src",
+			"-dist/,-jspm_packages/,-node_modules/",
+			"-dist/",
+			"-jspm_packages.,-node_modules.,-dist.",
+			"-jspm_packages,-node_modules,-dist",
+			"-jspm_packages,-node_modules",
+			"",
+			"C:\\src\\mi-voice mini\\FeatureBranches\\201507ReBranding\\Sources\\GUI\\MiVoice.Atlas.Polling.WebSite",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main",
+			"'",
+			" + ",
+			"aurelia",
+			"TWBootstrapAppendToInput",
+			"node-gyp",
+			"\"\\^[^\\\"]*\\\"",
+			"moment",
+			"Title",
+			"title",
+			"Title",
+			"title",
+			"Title",
+			"title",
+			"Title",
+			"level",
+			"title",
+			"app-config",
+			"];\n",
+			"Gordon MacDonald",
+			"computed",
+			"computedFrom",
+			"customattrib",
+			"bootstrap.css",
+			"bootstrap",
+			"day-com",
+			"day-component",
+			"date",
+			"-picker",
+			"control-label>",
+			"col-sm-10",
+			"col-sm-2",
+			"<label>",
+			"clockpick",
+			"clockpic",
+			"\n    ",
+			"selectMonth",
+			".btn",
+			"html",
+			"regan",
+			"ashten",
+			"createDayLabel",
+			"Picker",
+			"highcharts",
+			"pickadate",
+			"date",
+			"pickadate",
+			"denham",
+			"pick",
+			"jquery",
+			"lib",
+			"pickadate",
+			"pickad",
+			"pickadate",
+			"default.css",
+			"pickadate",
+			"default.css",
+			".js",
+			"date",
+			"control-date",
+			"control-textbox",
+			"md",
+			"container-",
+			"h2",
+			"sweetalert",
+			"font-awesome",
+			"font-aw",
+			"font-awesome",
+			"Notifications",
+			"options",
+			"toastr",
+			"bootstrap",
+			"events.json",
+			"event",
+			"eventData",
+			"th",
+			"nameField",
+			"baseUrl",
+			"false",
+			"access_token",
+			"ignored",
+			"aurelia/logging",
+			".css!",
+			".css",
+			"src",
+			"src/",
+			"/src",
+			"baseurl",
+			"\\t",
+			"highlighter",
+			"author",
+			"website-title",
+			"This is the footer",
+			"Session.Add",
+			"Session[",
+			"abcpdf",
+			"html",
+			"$scope",
+			"{",
+			"{{",
+			"renderGraph",
+			"logManager",
+			"show",
+			"showvisible",
+			"dashboard",
+			"results-graph",
+			"model",
+			"eventData",
+			"chartDefaults",
+			"dashboard",
+			"model",
+			"observerLocator",
+			"lineChart",
+			"chartOptions",
+			"chartData",
+			"chartOptions",
+			"chartDefaults",
+			"\"",
+			"parent",
+			"\"",
+			"@bindable",
+			"setBatchInfo",
+			"eventChanged",
+			"setBatchInfo",
+			"castVoteCount",
+			"compile-spy",
+			"font-awesome@4.4.0",
+			"model"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 446.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 176.0
+	},
+	"pinned_build_system": "gulp bundle",
+	"project": "bundling-with-jspm-and-aurelia.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conf",
+				"config.js"
+			],
+			[
+				"inde",
+				"index-sfx.html"
+			],
+			[
+				"ind",
+				"index-sfx.html"
+			],
+			[
+				"index-",
+				"index-sfx.html"
+			],
+			[
+				"config",
+				"config.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"system.",
+				"jspm_packages\\system.js"
+			],
+			[
+				"tag",
+				"_data\\tags.yml"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"",
+				"package.json"
+			],
+			[
+				"form-field",
+				"src\\nominations\\pages\\form-fields.js"
+			],
+			[
+				"form-fi",
+				"src\\nominations\\pages\\form-fields.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"nomin",
+				"src\\nominations\\nominationData.js"
+			],
+			[
+				"appcon",
+				"src\\app-config.js"
+			],
+			[
+				"rout",
+				"src\\router-config.js"
+			],
+			[
+				"fet",
+				"src\\fetch-services.js"
+			],
+			[
+				"con",
+				"config.js"
+			],
+			[
+				"details.js",
+				"src\\nominations\\details.js"
+			],
+			[
+				"det",
+				"src\\nominations\\details.html"
+			],
+			[
+				"config.js",
+				"config.js"
+			],
+			[
+				"clock",
+				"src\\resources\\clock-picker.js"
+			],
+			[
+				"ser",
+				"build\\tasks\\serve.js"
+			],
+			[
+				"watch",
+				"build\\tasks\\watch.js"
+			],
+			[
+				"confi",
+				"config.js"
+			],
+			[
+				"pickaddatepick",
+				"src\\vendor\\pickadate\\date-picker.css"
+			],
+			[
+				"detil",
+				"src\\nominations\\details.html"
+			],
+			[
+				"date-pic",
+				"src\\resources\\date-picker.js"
+			],
+			[
+				"details.",
+				"src\\nominations\\details.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"app.c",
+				"src\\app.css"
+			],
+			[
+				"pickad",
+				"src\\vendor\\pickadate\\pickadate-date.js"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"config.",
+				"config.js"
+			],
+			[
+				"index.ht",
+				"index.html"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"detail",
+				"src\\nominations\\details.html"
+			],
+			[
+				"fetch",
+				"src\\fetch-services.js"
+			],
+			[
+				"control-",
+				"src\\resources\\controls\\control-textbox.html"
+			],
+			[
+				"app.html",
+				"src\\app.html"
+			],
+			[
+				"lo",
+				"src\\security\\login.html"
+			],
+			[
+				"login.",
+				"src\\security\\login.html"
+			],
+			[
+				"authser",
+				"src\\security\\authService.js"
+			],
+			[
+				"login",
+				"src\\security\\login.js"
+			],
+			[
+				"control-te",
+				"src\\resources\\controls\\control-textbox.html"
+			],
+			[
+				".css",
+				"src\\app.css"
+			],
+			[
+				"foot",
+				"src\\footer.html"
+			],
+			[
+				"log",
+				"src\\security\\login.html"
+			],
+			[
+				"auth",
+				"src\\security\\authSession.js"
+			],
+			[
+				"uth",
+				"src\\security\\authConfig.js"
+			],
+			[
+				"app.",
+				"src\\app.html"
+			],
+			[
+				"chart.ht",
+				"src\\resources\\controls\\chart.html"
+			],
+			[
+				"chart",
+				"src\\resources\\controls\\chart.js"
+			],
+			[
+				"fetch-ser",
+				"src\\fetch-services.js"
+			],
+			[
+				"nomination",
+				"src\\nominations\\nominationData.js"
+			],
+			[
+				"list.js",
+				"src\\events\\list.js"
+			],
+			[
+				"list.html",
+				"src\\nominations\\list.html"
+			],
+			[
+				"result",
+				"src\\dashboard\\widget-results-graph.html"
+			],
+			[
+				"chart.",
+				"src\\resources\\controls\\chart.js"
+			],
+			[
+				"results",
+				"src\\dashboard\\widget-results-graph.js"
+			],
+			[
+				"dash",
+				"src\\dashboard\\dashboard.html"
+			],
+			[
+				"tweet",
+				"src\\dashboard\\widget-latest-tweets.js"
+			],
+			[
+				"voting",
+				"src\\dashboard\\widget-voting-statistics.js"
+			],
+			[
+				"twe",
+				"src\\dashboard\\widget-latest-tweets.html"
+			],
+			[
+				"dashb",
+				"src\\dashboard\\dashboard.js"
+			],
+			[
+				"widget-bu",
+				"src\\dashboard\\widget-button.html"
+			],
+			[
+				"widget",
+				"src\\dashboard\\widget2.html"
+			],
+			[
+				"carousel",
+				"src\\dashboard\\carousel.html"
+			],
+			[
+				"dashboar",
+				"src\\dashboard\\dashboard.html"
+			],
+			[
+				"auths",
+				"src\\security\\authSession.js"
+			],
+			[
+				"package.j",
+				"package.json"
+			],
+			[
+				"widget2.h",
+				"dist\\dashboard\\widget2.html"
+			],
+			[
+				"widget.ht",
+				"dist\\dashboard\\widget.html"
+			],
+			[
+				"widget-b",
+				"dist\\dashboard\\widget-button.html"
+			],
+			[
+				"carousel.h",
+				"dist\\dashboard\\carousel.html"
+			],
+			[
+				"bundl",
+				"build\\tasks\\bundle.js"
+			],
+			[
+				"config.j",
+				"config.js"
+			],
+			[
+				"nml",
+				"Services\\MiVoice.Atlas.Services\\NominationsManagementLogic.cs"
+			],
+			[
+				"thank",
+				"thanks.md"
+			],
+			[
+				"head",
+				"_includes\\head.html"
+			],
+			[
+				"resuts",
+				"dashboard\\widget-results-graph.html"
+			],
+			[
+				"widget-st",
+				"dashboard\\widget-stats.css"
+			],
+			[
+				"votin",
+				"dashboard\\widget-voting-statistics.js"
+			],
+			[
+				"deb",
+				"resources\\helpers\\debug.js"
+			],
+			[
+				"char",
+				"resources\\controls\\chart.js"
+			],
+			[
+				"tweets",
+				"dashboard\\widget-latest-tweets.js"
+			],
+			[
+				"short",
+				"dashboard\\widget-shortcuts.html"
+			],
+			[
+				"resu",
+				"dashboard\\widget-results-graph.html"
+			],
+			[
+				"voting-st",
+				"dashboard\\widget-voting-statistics.js"
+			],
+			[
+				"widget2",
+				"dashboard\\widget2.js"
+			],
+			[
+				"chartin",
+				"experiments\\charting.html"
+			],
+			[
+				"charting",
+				"experiments\\charting.js"
+			],
+			[
+				"dshbo",
+				"dashboard\\dashboard.js"
+			],
+			[
+				"dashbo",
+				"dashboard\\dashboard.html"
+			],
+			[
+				"chart.js",
+				"resources\\controls\\chart.js"
+			],
+			[
+				"by-part",
+				"experiments\\widget-by-template-part.html"
+			],
+			[
+				"router",
+				"router-config.js"
+			],
+			[
+				"index.js",
+				"experiments\\index.js"
+			],
+			[
+				"eventsbase",
+				"experiments\\event-tests-base.js"
+			],
+			[
+				"shortcu",
+				"dashboard\\widget-shortcuts.js"
+			],
+			[
+				"dashboardc",
+				"dashboard\\dashboard-context.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"widget.cs",
+				"dashboard\\widget.css"
+			],
+			[
+				"wiget2",
+				"dashboard\\widget2.html"
+			],
+			[
+				"composab",
+				"experiments\\event-tests-composable.html"
+			],
+			[
+				"chart.h",
+				"resources\\controls\\chart.html"
+			],
+			[
+				"custom-",
+				"experiments\\event-tests-custom-element.js"
+			],
+			[
+				"voti",
+				"dashboard\\widget-voting-statistics.js"
+			],
+			[
+				"eventbase",
+				"experiments\\event-tests-base.js"
+			],
+			[
+				"custom-element",
+				"experiments\\event-tests-custom-element.js"
+			],
+			[
+				"compile-",
+				"jspm_packages\\github\\aurelia\\templating-resources@0.14.0\\compile-spy.js"
+			],
+			[
+				"view-sp",
+				"jspm_packages\\github\\aurelia\\templating-resources@0.14.0\\view-spy.js"
+			],
+			[
+				"voting-s",
+				"dashboard\\widget-voting-statistics.html"
+			],
+			[
+				"eventda",
+				"events\\eventData.js"
+			],
+			[
+				"results-gr",
+				"dashboard\\widget-results-graph.js"
+			],
+			[
+				"results-",
+				"dashboard\\widget-results-graph.html"
+			],
+			[
+				"widg",
+				"dashboard\\widget.js"
+			],
+			[
+				"votingst",
+				"dashboard\\widget-voting-statistics.js"
+			],
+			[
+				"dashboard",
+				"dashboard\\dashboard.js"
+			],
+			[
+				"aurelia-tem",
+				"jspm_packages\\github\\aurelia\\templating@0.14.4\\aurelia-templating.js"
+			],
+			[
+				"latest-tw",
+				"dashboard\\widget-latest-tweets.html"
+			],
+			[
+				"twee",
+				"dashboard\\widget-latest-tweets.html"
+			],
+			[
+				"tw",
+				"dashboard\\widget-latest-tweets.js"
+			],
+			[
+				"carouse",
+				"dashboard\\carousel.js"
+			],
+			[
+				"nav",
+				"resources\\nav-menu.js"
+			],
+			[
+				"packag",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\github\\aurelia-form-builder\\aurelia-form-builder.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
