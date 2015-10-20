@@ -1,0 +1,6 @@
+C:\github\bundling-with-jspm-and-aurelia\bin\bundling-with-jspm-and-aurelia.dll.config
+C:\github\bundling-with-jspm-and-aurelia\bin\bundling-with-jspm-and-aurelia.dll
+C:\github\bundling-with-jspm-and-aurelia\bin\bundling-with-jspm-and-aurelia.pdb
+C:\github\bundling-with-jspm-and-aurelia\obj\Debug\bundling-with-jspm-and-aurelia.csprojResolveAssemblyReference.cache
+C:\github\bundling-with-jspm-and-aurelia\obj\Debug\bundling-with-jspm-and-aurelia.dll
+C:\github\bundling-with-jspm-and-aurelia\obj\Debug\bundling-with-jspm-and-aurelia.pdb

@@ -1,0 +1,33 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <!-- Hook into the AfterBuild activity -->
+    <PropertyGroup>
+    <BuildDependsOn>
+        $(BuildDependsOn);
+        SpaBuild;
+        SpaBundle
+    </BuildDependsOn>
+    </PropertyGroup>
+
+    <PropertyGroup>
+    <RunSpaBuild Condition="'$(RunSpaBuild)'==''">false</RunSpaBuild>
+    <RunSpaBundle Condition="'$(RunSpaBundle)'==''">false</RunSpaBundle>
+    </PropertyGroup>
+
+    <Target Name="SpaBuild" Condition="$(RunSpaBuild)">
+    <Message Text="Building the SPA application" />
+    <Exec Command="attrib -r config.js" WorkingDirectory="." />
+    <Exec Command="attrib -r package.json" WorkingDirectory="." />
+    <Exec Command="npm install" WorkingDirectory="." />
+    <Exec Command="jspm install" WorkingDirectory="." />
+    <Exec Command="gulp build" WorkingDirectory="." />
+    </Target>
+
+    <Target Name="SpaBundle" Condition="$(RunSpaBundle)">
+    <Message Text="Bundling the SPA application" />
+    <Exec Command="attrib -r config.js" WorkingDirectory="." />
+    <Exec Command="attrib -r package.json" WorkingDirectory="." />
+    <Exec Command="gulp bundle" WorkingDirectory="." />
+    </Target>
+
+</Project>
